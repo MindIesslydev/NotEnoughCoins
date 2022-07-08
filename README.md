@@ -16,23 +16,39 @@ This release comes with multiple rewritten components, please let us know if any
 Changes
 
 Fix Gui Elements not properly loading their positions
+
 Fix copy ingame auction link crashes 
+
 Fix game error 1 memory issue
 
 Commands
 
 /nec - Shows the config GUI
+
 /nec help - Shows the help message containing all the subcommands and their usage
+
 /nec toggle - Enables the mod to return a list of suggested items to flip whenever one is found.
+
 /nec configure tfm
+
 /nec chat allows nec messages
+
 /nec start starts scanning auction api for flips
+
 /pminimum sets minimum profit
+
 /budget sets maximum price of flips
+
 /binonly only scans BIN auctions for flips
+
 /auctiononly only scans auctions for flips
+
 /volume sets flip volume 
+
 /blacklist allows you to blacklist an item from your flips
+
 /profitpercent shows profit percentage instead of numbers i.e. 7,000,000 -> 11%
+
 /discord sends a link to nec discord
+
 /flipsound plays a sound on flip
